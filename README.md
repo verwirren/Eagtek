@@ -9,4 +9,4 @@ Links will be added frequently.
 
 I am the person that forked most of these links, and I have taken some from the internet. These are tested, and if not all, most should work.
 
-Please read the privacy policy if you have any concerns about what I can see from these links.
+Please read the privacy policy before you continue.
