@@ -5,5 +5,6 @@ If you are going to use a link: These links can be blocked by your administrator
 
 (I AM NOT RESPONDIBLE FOR ANY MAJOR PUNISHMENTS, DEVICE ISSUES AND PERMANANT DATA LOSS. If you are using any of these links, please note that I am not responsible for any issues that occur. If you are playing these at school/work and get in trouble for it, I am not at fault. If you have any issues please go to 'eaglecraft.ru')
 
+Links will be added frequently.
 
 I am not the creator of these links. CREDITS TO eaglecraft.ru
