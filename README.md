@@ -1,5 +1,5 @@
 # Eagtek
-If you are going to use an HTML file: Download the file (preferably on a USB drive) and run it on your computer. This will open up your main browser, and you are able to play.
+If you are going to use an HTML file: Download the file (preferably on a USB drive) and run it on your computer. This will open up your main browser, and you are able to play. (Note that you can only play online with the HTML file. for some reason there is not a singleplayer mode.)
 
 If you are going to use a link: These links can be blocked by your administrator. Enter them in your browser, and enjoy!
 
